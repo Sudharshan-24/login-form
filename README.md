@@ -1,2 +1,2 @@
 # login-form
-html and css only
+HTML and CSS only
